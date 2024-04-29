@@ -1,4 +1,4 @@
-Blockchain Projet: Event Organisation using Smart contract
+Blockchain Project: Event Organisation using Smart contract
 
 The way this smart contract works is the Event Planner and the user/ticket buyer both can work.
 The user with an account can create the events by entering details like Event name, time, ticket
@@ -15,6 +15,7 @@ In deployed the contracts, the above functions can be easily performed by both p
 TechStack used: Chrome Browser, Remix IDE for Smart contract, Metamask for test ether wallet, Ganache for 100 Ether Account
 
 Smart Contract:
+
 //SPDX-License-Identifier: Unlicense
 pragma solidity >=0.5.0 <0.9.0;
 
